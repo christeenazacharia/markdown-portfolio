@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Im Christeena Zacharia*
+_This is my portfolio_
+
+**Im Christeena Zacharia**
+__This is my portfolio__
+
+_I **am** Christeena_ 
